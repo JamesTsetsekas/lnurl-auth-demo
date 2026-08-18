@@ -318,7 +318,9 @@ button:focus-visible {
 }
 
 .qr-link img {
+  display: block;
   height: auto;
+  margin-inline: auto;
   max-width: 100%;
 }
 
