@@ -93,6 +93,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.netlify/
+deno.lock
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
