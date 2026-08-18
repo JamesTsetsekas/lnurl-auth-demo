@@ -405,7 +405,7 @@ button:focus-visible {
   line-height: 1.7;
 }
 
-.article a {
+.article a:not(.button) {
   color: var(--yellow);
   text-underline-offset: 4px;
 }
