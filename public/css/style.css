@@ -309,12 +309,15 @@ button:focus-visible {
 }
 
 .qr-link {
+  align-self: center;
   background: #fff;
   border-radius: 14px;
   display: block;
   line-height: 0;
+  max-width: 100%;
   overflow: hidden;
   padding: 10px;
+  width: fit-content;
 }
 
 .qr-link img {
